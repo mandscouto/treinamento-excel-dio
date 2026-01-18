@@ -1,5 +1,5 @@
 # Bootcamp Excel com Inteligência Artifical - DIO
-Repositório para arquivos de projetos do Bootcamp: Excel com Inteligência Artifical da DIO<br>
+Repositório para arquivos de projetos do Bootcamp: Excel com Inteligência Artifical da DIO<br><br>
 🛠️ Todos os projetos utilizam a plataforma Microsoft Excel, mas podem ser adaptados para Google Sheets conforme necessidade.
 <br><br>
 ## Projeto 1: Ferramenta para controle de investimentos
